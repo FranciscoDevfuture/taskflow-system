@@ -1,3 +1,6 @@
+
+#teste2
+
 """
 Testes de Integração — Rotas de Autenticação
 Testa os endpoints /auth/login, /auth/logout e /auth/me via cliente HTTP.
