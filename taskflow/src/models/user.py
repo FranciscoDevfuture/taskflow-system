@@ -1,3 +1,6 @@
+#validação
+
+
 """
 Modelo de Usuário — TaskFlow System
 Gerencia autenticação, perfis e permissões dos usuários.
