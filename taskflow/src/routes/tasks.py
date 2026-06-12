@@ -272,3 +272,7 @@ def listar_por_prioridade(nivel):
 
     tarefas = Tarefa.listar_por_prioridade(prioridade)
     return jsonify([t.to_dict() for t in tarefas]), 200
+
+
+
+#em teste
