@@ -21,6 +21,8 @@ O **TaskFlow System** é uma API RESTful de gerenciamento de tarefas desenvolvid
 - Testes unitários com Pytest
 - Pipeline de CI com GitHub Actions
 
+## Mudança de Escopo Aprovada em 08/06/2026
+
 ### ⚠️ Mudança de Escopo (Sprint 2)
 **Funcionalidade adicionada:** Campo `prioridade` nas tarefas.
 
