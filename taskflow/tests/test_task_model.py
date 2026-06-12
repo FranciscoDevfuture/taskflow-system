@@ -201,3 +201,7 @@ class TestRepositorioDeTarefas:
                   "criado_em", "atualizado_em"]
         for campo in campos:
             assert campo in d, f"Campo '{campo}' ausente no to_dict()"
+
+
+
+#teste
